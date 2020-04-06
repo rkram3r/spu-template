@@ -1,5 +1,6 @@
 {
-  "name": "@spu/template",
+  "private": false,
+  "name": "spu-template",
   "version": "1.0.0",
   "main": "index.json",
   "description": "prettier-config",
