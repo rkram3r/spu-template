@@ -1,0 +1,9 @@
+{
+  "name": "@shared-processing-unit/prettier-config",
+  "version": "1.0.3",
+  "main": "index.json",
+  "description": "prettier-config",
+  "repository": "git@github.com:shared-processing-unit/spu.documentation.git",
+  "author": "Dijan Helbling, Roman Kramer",
+  "license": "AGPL-3.0-only"
+}
