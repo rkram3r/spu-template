@@ -1,7 +1,7 @@
 {
   "private": false,
-  "name": "spu-template",
-  "version": "1.0.0",
+  "name": "@rkram3r/spu-template",
+  "version": "1.0.2",
   "main": "index.json",
   "description": "prettier-config",
   "repository": "git@github.com:rkram3r/spu-template.git",
